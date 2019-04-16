@@ -1,5 +1,3 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
 # Classification performance standard
 
 ## Description
@@ -14,7 +12,11 @@
 
 <img src="https://latex.codecogs.com/png.latex?ErrorRate=1-Accuracy" title="ErrorRate=1-Accuracy" />
 
+<img src="https://latex.codecogs.com/png.latex?Precision=\frac{TP}{TP&plus;FP}" title="Precision=\frac{TP}{TP+FP}" />
 
+<img src="https://latex.codecogs.com/png.latex?Recall=\frac{TP}{TP&plus;FN}" title="Recall=\frac{TP}{TP+FN}" />
+
+<img src="https://latex.codecogs.com/png.latex?F1=\frac{2×TP}{n\_samples&plus;TP-TN}" title="F1=\frac{2×TP}{n\_samples+TP-TN}" />
 
 Confusion matrix
 
@@ -27,13 +29,13 @@ Confusion matrix
 
 The vertical axis of the ROC(Receiver Operating Characteristic) curve is TPR(True Positive Rate) and the horizontal axis is FPR(False Positive Rate).
 
-$TPR=\frac{TP}{TP+FN}$
+<img src="https://latex.codecogs.com/png.latex?TPR=\frac{TP}{TP&plus;FN}" title="TPR=\frac{TP}{TP+FN}" />
 
-$FPR=\frac{FP}{TN+FP}$
+<img src="https://latex.codecogs.com/png.latex?FPR=\frac{FP}{TN&plus;FP}" title="FPR=\frac{FP}{TN+FP}" />
 
 AUC is the area under ROC curve.
 
-$AUC=\frac{1}{2}\sum_{i=1}^{m-1}(x_{i+1}-x_{i})*(y_{i}+y_{i+1})$
+<img src="https://latex.codecogs.com/png.latex?AUC=\frac{1}{2}\sum_{i=1}^{m-1}(x_{i&plus;1}-x_{i})*(y_{i}&plus;y_{i&plus;1})" title="AUC=\frac{1}{2}\sum_{i=1}^{m-1}(x_{i+1}-x_{i})*(y_{i}+y_{i+1})" />
 
 
 
