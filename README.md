@@ -17,6 +17,8 @@
 
 <img src="http://www.forkosh.com/mathtex.cgi? Accuracy=\frac{TP+TN}{P+N}">
 
+<img src="http://chart.googleapis.com/chart?cht=tx&chl= Accuracy=\frac{TP+TN}{P+N}" style="border:none;">
+
 $$Accuracy=\frac{TP+TN}{P+N}$$
 
 $ErrorRate=1-Accuracy$
