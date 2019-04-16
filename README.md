@@ -1,14 +1,3 @@
-# 机器学习-如何在github上写数学公式
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-居中格式: $$xxx$$
-$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
-靠左格式: \\(xxx\\)
-\\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\)
-测试
-$$\frac{7x+5}{1+y^2}$$
-\\(l(x_i) = - \log_2 P(x_i)\\)
-
-
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 
 # Classification performance standard
@@ -21,19 +10,11 @@ $$\frac{7x+5}{1+y^2}$$
 
 ## Standard
 
-<img src="http://chart.googleapis.com/chart?cht=tx&chl= Accuracy=\frac{TP\+TN}{P+N}" style="border:none;">
-
 <img src="https://latex.codecogs.com/png.latex?Accuracy=\frac{TP&plus;TN}{P&plus;N}" title="Accuracy=\frac{TP+TN}{P+N}" />
 
-$$Accuracy=\frac{TP+TN}{P+N}$$
+<img src="https://latex.codecogs.com/png.latex?ErrorRate=1-Accuracy" title="ErrorRate=1-Accuracy" />
 
-$ErrorRate=1-Accuracy$
 
-$Precision=\frac{TP}{TP+FP}$
-
-$Recall=\frac{TP}{TP+FN}$
-
-$F1=\frac{2×TP}{n\_samples+TP-TN}$
 
 Confusion matrix
 
