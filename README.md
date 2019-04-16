@@ -1,3 +1,5 @@
+<html><script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script><\html>
+
 # Classification performance standard
 
 ## Description
@@ -9,6 +11,8 @@
 ## Standard
 
 <img src="http://chart.googleapis.com/chart?cht=tx&chl= Accuracy=\frac{TP\+TN}{P+N}" style="border:none;">
+
+<img src="https://latex.codecogs.com/png.latex?Accuracy=\frac{TP&plus;TN}{P&plus;N}" title="Accuracy=\frac{TP+TN}{P+N}" />
 
 $$Accuracy=\frac{TP+TN}{P+N}$$
 
