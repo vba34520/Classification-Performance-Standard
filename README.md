@@ -1,3 +1,5 @@
+<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
+
 # Classification performance standard
 
 ## Description
@@ -7,6 +9,8 @@
 002 `Classification-Performance-Standard.ipynb` The framework to evaluate multi-classification classifier automatically.
 
 ## Standard
+
+<img src="https://latex.codecogs.com/png.latex?$Accuracy=\frac{TP&plus;TN}{P&plus;N}$" title="$Accuracy=\frac{TP+TN}{P+N}$" />
 
 <img src="http://www.forkosh.com/mathtex.cgi? \Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}">
 
