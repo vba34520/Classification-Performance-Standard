@@ -8,6 +8,8 @@
 
 ## Standard
 
+<img src="https://latex.codecogs.com/gif.latex?\mathrm{Accuracy}=\frac{\mathrm{TP}&plus;\mathrm{TN}}{\mathrm{P}&plus;\mathrm{N}}" title="\mathrm{Accuracy}=\frac{\mathrm{TP}+\mathrm{TN}}{\mathrm{P}+\mathrm{N}}" />
+
 <img src="https://latex.codecogs.com/png.latex?Accuracy=\frac{TP&plus;TN}{P&plus;N}" title="Accuracy=\frac{TP+TN}{P+N}" />
 
 <img src="https://latex.codecogs.com/png.latex?ErrorRate=1-Accuracy" title="ErrorRate=1-Accuracy" />
