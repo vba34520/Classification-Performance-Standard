@@ -37,5 +37,6 @@ AUC is the area under ROC curve.
 
 <img src="https://latex.codecogs.com/png.latex?AUC=\frac{1}{2}\sum_{i=1}^{m-1}(x_{i&plus;1}-x_{i})*(y_{i}&plus;y_{i&plus;1})" title="AUC=\frac{1}{2}\sum_{i=1}^{m-1}(x_{i+1}-x_{i})*(y_{i}+y_{i+1})" />
 
+![ROC](https://github.com/vba34520/Classification-Performance-Standard/blob/master/picture/ROC.png)
 
-
+![ROC(each class)](https://github.com/vba34520/Classification-Performance-Standard/blob/master/picture/ROC(each%20class).png)
