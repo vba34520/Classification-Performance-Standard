@@ -1,5 +1,3 @@
-<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
-
 # Classification performance standard
 
 ## Description
@@ -10,14 +8,7 @@
 
 ## Standard
 
-<img src="https://latex.codecogs.com/png.latex?$Accuracy=\frac{TP&plus;TN}{P&plus;N}$" title="$Accuracy=\frac{TP+TN}{P+N}$" />
-
-<img src="http://www.forkosh.com/mathtex.cgi? \Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}">
-
-
-<img src="http://www.forkosh.com/mathtex.cgi? Accuracy=\frac{TP+TN}{P+N}">
-
-<img src="http://chart.googleapis.com/chart?cht=tx&chl= Accuracy=\frac{TP+TN}{P+N}" style="border:none;">
+<img src="http://chart.googleapis.com/chart?cht=tx&chl= Accuracy=\frac{TP\+TN}{P+N}" style="border:none;">
 
 $$Accuracy=\frac{TP+TN}{P+N}$$
 
