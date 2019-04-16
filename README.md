@@ -8,7 +8,7 @@
 
 ## Standard
 
-$Accuracy=\frac{TP+TN}{P+N}$
+$$Accuracy=\frac{TP+TN}{P+N}$$
 
 $ErrorRate=1-Accuracy$
 
