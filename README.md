@@ -8,7 +8,7 @@
 
 ## Standard
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=$Accuracy=\frac{TP&plus;TN}{P&plus;N}$&space;$ErrorRate=1-Accuracy$&space;$Precision=\frac{TP}{TP&plus;FP}$&space;$Recall=\frac{TP}{TP&plus;FN}$&space;$F1=\frac{2×TP}{n\_samples&plus;TP-TN}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$Accuracy=\frac{TP&plus;TN}{P&plus;N}$&space;$ErrorRate=1-Accuracy$&space;$Precision=\frac{TP}{TP&plus;FP}$&space;$Recall=\frac{TP}{TP&plus;FN}$&space;$F1=\frac{2×TP}{n\_samples&plus;TP-TN}$" title="$Accuracy=\frac{TP+TN}{P+N}$ $ErrorRate=1-Accuracy$ $Precision=\frac{TP}{TP+FP}$ $Recall=\frac{TP}{TP+FN}$ $F1=\frac{2×TP}{n\_samples+TP-TN}$" /></a>
+<img src="http://www.forkosh.com/mathtex.cgi? Accuracy=\frac{TP+TN}{P+N}">
 
 $$Accuracy=\frac{TP+TN}{P+N}$$
 
