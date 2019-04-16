@@ -8,6 +8,9 @@
 
 ## Standard
 
+<img src="http://www.forkosh.com/mathtex.cgi? \Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}">
+
+
 <img src="http://www.forkosh.com/mathtex.cgi? Accuracy=\frac{TP+TN}{P+N}">
 
 $$Accuracy=\frac{TP+TN}{P+N}$$
